@@ -1,0 +1,23 @@
+Notes de Version : Prédiction du Prix de Clôture des Actifs Financiers v1.0.0
+Détails de la Version
+
+    Version : v1.0.0
+    Date de sortie : 2023-07-15
+
+Nouvelles fonctionnalités et améliorations
+
+    Interface utilisateur améliorée : Intégration d'une interface utilisateur avec Tkinter. Les utilisateurs peuvent maintenant entrer des données directement via une interface graphique.
+    Prise en charge de plusieurs actifs financiers : Les utilisateurs peuvent saisir le symbole de n'importe quel actif financier disponible sur Yahoo Finance pour effectuer des prédictions.
+    Prédictions basées sur le LSTM : Utilisation d'un modèle LSTM pour prédire le prix de clôture des actifs financiers basé sur les données historiques.
+    Visualisation des prédictions : Les résultats des prédictions sont présentés sous forme de graphiques pour une meilleure interprétation.
+
+Corrections de bugs
+
+Aucun bug majeur n'a été corrigé dans cette version car il s'agit de la première version du programme.
+Limitations et travaux futurs
+
+Cette application est une démonstration de concept et n'est pas destinée à être utilisée pour des décisions d'investissement réelles. Dans les versions futures, nous prévoyons d'intégrer des fonctionnalités supplémentaires comme :
+
+    Une meilleure gestion des erreurs pour les actifs financiers non reconnus ou non disponibles.
+    L'ajout de plusieurs types de modèles de prédiction.
+    La possibilité de choisir la durée sur laquelle baser les prédictions.
